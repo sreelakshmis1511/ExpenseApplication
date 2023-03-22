@@ -1,1 +1,1 @@
-# SimpleECommerceApplication
+# ExpenseApp
